@@ -65,14 +65,6 @@ IncludeTemplateLangFile(__FILE__);
 						"SITE_ID" => "s1" 
 					)
 				);?>
-				<!-- breadcrumb -->
-				<!--<div class="klim-head-breadcrumb">
-					<ul>
-						<li class="bc-link"><a href="/">Главная</a></li>
-						<li class="bc-final">Новости</li>
-					</ul>
-				</div>-->
-				<!-- !breadcrumb -->
 				<h1 class="kl-head-h1"><?$APPLICATION->ShowTitle()?></h1>
 			<?}?>
 		</header>
