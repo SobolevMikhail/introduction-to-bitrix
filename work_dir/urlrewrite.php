@@ -37,5 +37,4 @@ $arUrlRewrite = array(
 		"PATH" => "/news/index.php",
 	),
 );
-
 ?>
