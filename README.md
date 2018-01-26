@@ -12,6 +12,8 @@
 
 [Изображения для слайдера](https://drive.google.com/open?id=1hbK5NRAchC4T9Efu8fbZHcR9ikKmqVsb "Google Drive")
 
+[Инфоблок новости](https://drive.google.com/open?id=19HxxMXaZc9ZMidHh-SNFPtjCaAdGk5y9 "Google Drive")
+
 [Изображения из методической документации](https://drive.google.com/open?id=1YYLTyNnVkyjx3in4XNxMItKt0RmH4C2E "Google Drive")
 
 [Статические файлы для шаблона](https://drive.google.com/open?id=1s_T6UBk1yu1bVAVfbK8Ru45K3lSH0_IK "Google Drive")
